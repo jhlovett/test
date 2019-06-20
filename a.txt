@@ -6,7 +6,6 @@ dev555
 dev666
 dev777
 master update
-master update2
 master update3
 master update4
 master update5
